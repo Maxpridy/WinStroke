@@ -1,0 +1,15 @@
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey\bin\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey\bin\Debug\NHotkey.pdb
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.pdb
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey\bin\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey\bin\Debug\NHotkey.pdb
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey\obj\Debug\NHotkey.pdb
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey\obj\Debug\NHotkey.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey\obj\Debug\NHotkey.dll
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey\obj\Debug\NHotkey.pdb
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey\bin\Debug\NHotkey.dll
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey\bin\Debug\NHotkey.pdb

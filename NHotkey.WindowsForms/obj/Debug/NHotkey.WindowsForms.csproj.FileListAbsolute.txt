@@ -1,0 +1,21 @@
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.pdb
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Desktop\소스\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.dll
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\bin\Debug\NHotkey.pdb
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Desktop\Source\NHotkey-master\NHotkey-master\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\obj\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.dll
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\bin\Debug\NHotkey.WindowsForms.pdb
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\bin\Debug\NHotkey.dll
+C:\Users\dusta\Documents\Visual Studio 2017\Projects\WinStroke\NHotkey.WindowsForms\bin\Debug\NHotkey.pdb
